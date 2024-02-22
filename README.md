@@ -15,7 +15,7 @@
 <br>
 
 - Un apasionado desarrollador full stack autodidacta.
-- Hacer deporte en mis tiempos libres
+- Me gusta Hacer deporte en mis tiempos libres
 - Actualmente aprendiendo Desarrollo Backend por cuenta propia
 - Sitio web personal [enlace](https://aplicacion-de-nodejs.vercel.app/)
 
