@@ -2,6 +2,8 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ing+de+Sistemas,;Apasionado+por+la+programación,;Desarrollador+full stack"></a>
+  <!--  -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=41FF2A00&random=false&width=435&lines=Estudiante+de+ing+de+sistemas+%2C++;Apasionado+por+la+programaci%C3%B3n++;Desarrollador+full+stack+" alt="Typing SVG" /></a>
 </p>
 
 <br>
