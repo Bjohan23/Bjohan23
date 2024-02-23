@@ -1,0 +1,1 @@
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bjohan23)](https://github.com/anuraghazra/github-readme-stats)

@@ -44,7 +44,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+   </a>
 </p>
 <br>   
     
@@ -83,10 +84,13 @@
 <!--  -->
 <p align="center">
     <a href="https://github.com/Bjohan23/"><!-- mi estado-->
-        <img src="https://github-readme-stats.vercel.app/api?username=Bjohan23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats" height="165" /> <!-- los lenguages mas usados-->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bjohan23&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Langs" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Bjohan23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats" height="165" /> <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bjohan23&theme=radical&show_icons=true" alt="Wakatime stats">
+</a>
         <!-- current streak -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bjohan23&background=0D1117&ring=DDDDDD&fire=DDDDDD&sideNums=DDDDDD&currStreakNum=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD" alt="GitHub Streak Stats" height="165" />
+        <!-- los lenguages mas usados-->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bjohan23&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Langs" height="165" />
     </a>
 </p>
 
