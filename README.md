@@ -24,7 +24,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bjohan23&theme=tokyonight" />
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bjohan23&theme=tokyonight" />
+  
 </div>
 
 ## 🚀 Sobre mí
